@@ -1,0 +1,9 @@
+
+
+.header {
+    text-align: center;
+}
+.icon {
+    display: flex;
+    align-items: left;
+}
